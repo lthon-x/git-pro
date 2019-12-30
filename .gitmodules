@@ -1,0 +1,3 @@
+[submodule "lthon-x.github.io"]
+	path = lthon-x.github.io
+	url = git@github.com:lthon-x/lthon-x.github.io.git
